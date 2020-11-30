@@ -15,13 +15,17 @@ body {
 .cont-bg-blue {
     background-color: rgba(122, 153, 196, 0.75);
     color: #0c3a79;
-    margin-top: 50px;
-    margin-bottom: 50px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
     padding-bottom: 1rem;
 }
 
 h1 {
-    padding-top: 15px;
+    padding-top: .5rem;
+}
+
+h5 {
+    padding-bottom: .5rem;
 }
 
 a {
