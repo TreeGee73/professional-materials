@@ -48,6 +48,12 @@ a {
     margin-bottom: 15px;
 }
 
+.card-btn-blue {
+    background-color: #0c3a79;
+    padding: 20px;
+    margin-bottom: 15px;
+}
+
 .port-image {
     display: flex;
     justify-content: center;

@@ -2,55 +2,18 @@
 
 Now that I've had some practice with APIs and have a project to share, I'll be updating my portfolio page and other materials to build toward being employer-competitive.
 
-## Requirements
-
-* Submit an updated portfolio featuring Project 1 and two exemplary homework assignments.
-
-* Submit an updated GitHub profile with pinned repositories featuring Project 1 and two exemplary assignments.
-
-* Submit an updated resume
-
-* Submit an updated LinkedIn profile
-
-## Grading
-
-| Requirement      | Weight |
-| ---------------- | ------ |
-| Portoflio        | 40%    |
-| GitHub Profile   | 40%    |
-| Resume           | 10%    |
-| LinkedIn Profile | 10%    |
-
-## Instructions
-
-1. [Updated Portfolio](#updated-portfolio)
-2. [GitHub Profile](#updated-github-profile)
-3. [Updated Resume](#updated-resume)
-4. [Updated LinkedIn](#updated-linkedin)
-
 ## Updated Portfolio
 
-💁 Need help updating your Portfolio? Check out the [Career Services milestone resources for online presence](hhttps://sites.google.com/2u.com/careerservices-webdev/coding-milestones/milestone-polish-online-presence).
-
 Your updated portfolio should:
-
-1. Display your full name, email, and phone number
-
-2. Have links to your GitHub profile and LinkedIn profile
-
-3. Have a link to a downloadable PDF of your resume
-
-4. Display at least 2 examples of student work from either deployed projects or homeworks. For each project, make sure you have the following:
-
-    * Project title
-
-    * Link to the deployed version
-
-    * Link to the GitHub repository
-
-    * Screenshot of the deployed application
-
-5. Have a polished, mobile-responsive user interface.
+- [x] Display your full name, email, and phone number
+- [x] Have links to your GitHub profile and LinkedIn profile
+- [x] Have a link to a downloadable PDF of your resume
+- [x] Display at least 2 examples of student work from either deployed projects or homeworks. For each project, make sure you have the following:
+    - [x] Project title
+    - [x] Link to the deployed version
+    - [x] Link to the GitHub repository
+    - [x] Screenshot of the deployed application
+- [x] Have a polished, mobile-responsive user interface.
 
 ### Design
 
