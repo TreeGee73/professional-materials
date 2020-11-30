@@ -1,8 +1,9 @@
 body {
     background-image: url('images/background.jpg');
     background-size: auto;
+    background-position: center;
     background-color: #7a99c4;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    font-family: 'Rajdhani', sans-serif;
 }
 
 .nav-blue {
