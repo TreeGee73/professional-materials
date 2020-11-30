@@ -15,86 +15,41 @@ Your updated portfolio should:
     - [x] Screenshot of the deployed application
 - [x] Have a polished, mobile-responsive user interface.
 
-### Design
+### Site Images
 
-Unfortunately, this is where it gets a little bit subjective. Your site should look
-"polished." Here are a few guidelines on what that means:
+Main Page with Bio:
+
+<img src='assets/images/main_page.jpg' alt='Main Page with Bio' title='Main Page with Bio'>
+
+Portfolio Page:
+
+<img src='assets/images/portfolio_page.jpg' alt='Portfolio Page' title='Portfolio Page'>
 
 * Mobile-first design
 
-* Choose a color palette for your site so it doesn't just look like
-  the default bootstrap theme or an unstyled HTML site.
+Main Page with Bio:
 
-* Make sure the font size is large enough to read, and that the colors don't cause eye strain.
+<img src='assets/images/main_mobile.jpg' alt='Main Page with Bio on Mobile' title='Main Page with Bio on Mobile'>
+
+Portfolio Page:
+
+<img src='assets/images/portfolio_mobile.jpg' alt='Portfolio Page on Mobile' title='Portfolio Page on Mobile'>
 
 ## Updated GitHub Profile
 
-Employers (and potential collaborators) _will_ look at your GitHub profile, so put your best face forward. 
+[TreeGee73](https://github.com/TreeGee73)
 
-Your GitHub profile must contain at least the following items:
+## Technology
 
-1. Professional profile picture
+CSS Framework: [Bootstrap](https://getbootstrap.com/)
+Bootstrap Depends on [JQuery](https://jquery.com/) and [JavaScript](https://www.javascript.com/) so these are also implimented on this site
 
-   * A photo or an image other than the default Github identicon. (a semi-professional to professional photo or an avatar photo are preferred)
+## Link
 
-2. Biography
+This app can be accessed at [professional-materials](https://treegee73.github.io/professional-materials/)
 
-3. Your current location
+## Credits
+Background image is a free to use image that was obtained from [Pexels.com](https://www.pexels.com/).
 
-4. Email address
-
-5. Link to your deployed portfolio
-
-6. At least 2 pinned repositories:
-
-   * Navigate to [GitHub](https://github.com/) and go to your profile.
-
-   * Click "Customize your pins"
-
-   * Click the checkboxes for your project and 2-3 homework assignments that you would like to share
-
-7. Follow a few of your classmates. They are the beginning of your professional network and being a developer is as much about being a part of the community as it is writing code.
-
-8. README files. Every pinned project should contain a README file with:
-
-   * Title of app
-   * Live link to deployed app
-   * List of technologies used
-   * 1-2 sentences explaining what the app is
-   * 2-3 Screenshots / gifs of the app
-   * License (usually MIT)
-   * Contact information for you and any collaborators
-
-9. Commit history. Every pinned repository should have at least 20 commits.
-
-### 3. Updated Resume
-
-💁 Need help building a resume? Check out the [Career Services milestone resources](https://sites.google.com/2u.com/careerservices-webdev/coding-milestones/milestone-develop-your-resume).
-
-Submit a clear, concise, and compelling resume, tailored to the type of job you’re looking for.
-
-Your resume should include:
-
-* a heading with your name, phone number, professional email address, links to LinkedIn, portfolio and GitHub
-
-* a technical skills section, with all programming languages and technologies listed
-
-* 3 of your strongest projects/homework assignments with brief description, languages used, and URL
-
-### 4. Updated LinkedIn
-
-💁 Need help updating your LinkedIn? Check out the [Career Services milestone resources for online presence](https://sites.google.com/2u.com/careerservices-webdev/coding-milestones/milestone-polish-online-presence).
-
-Update your LinkedIn Profile with a strong bio statement, a professional photo, and links to your Github and portfolio.
-
-### ⭐ 5. For Job-Seeking Students (BONUS)
-
-If you are a job-seeking student, then getting yourself marked as employer-ready is an important step to take because you'll get:
-
-* added to our employer referral list, where we'll help match you with employers for interviews
-
-* exclusive access to workshops for employer-ready students
-
-* a statistically higher success rate in your job search
-
-So if you're going to be looking for a job at the end of your boot camp, go ahead and submit these updated items to your Career Materials Advisor (formerly Profile Coach) via BootCampSpot.
+## Contact
+Contact me at [treegee73@gmail.com](mailto:treegee73@gmail.com)
