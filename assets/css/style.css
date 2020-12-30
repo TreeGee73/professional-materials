@@ -1,5 +1,5 @@
 body {
-    background-image: url('images/background.jpg');
+    background-image: url('/professional-materials/assets/images/background.jpg');
     background-size: auto;
     background-position: center;
     background-color: #7a99c4;
@@ -69,10 +69,10 @@ a {
 .footer-blue {
     width: 100%;
     text-align: center;
-    padding-bottom: .25rem;
     background-color: #7a99c4;
     color: #5d87c4;
-    bottom: 0pt;
+    position: fixed;
+    bottom: -1rem;
 }
 
 .hr-bottom {
