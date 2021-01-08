@@ -4,7 +4,7 @@
 ## Table of Contents
   * [Description](#description)
   * [Usage](#usage)
-  * [Updated Porfolio](#updated-portfolia)
+  * [Updated Porfolio](#updated-portfolio)
   * [Technology](#technology)
   * [Installation](#installation)
   * [Testing](#testing)
