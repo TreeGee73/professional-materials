@@ -52,7 +52,6 @@ The applications included in my portfolio utilize some or all of the following i
  - [Jest](https://jestjs.io/)
  - [MySQL](https://www.mysql.com/)
  - [Express Handlebars](https://www.npmjs.com/package/express-handlebars)
- - [Heroku](https://www.heroku.com/)
 
 ---
 
@@ -92,4 +91,4 @@ Background image is a free to use image that was obtained from [Pexels.com](http
   ## Questions / Contact Details
   This app can be found on my Github page at [TreeGee73](https://github.com/TreeGee73).
 
-  If you have any questions or need to contact me about this app, I can reached either on Github or by email at [treegee73@gmail.com](treegee73@gmail.com).
+  If you have any questions or need to contact me about this app, I can reached either on Github or by email.
